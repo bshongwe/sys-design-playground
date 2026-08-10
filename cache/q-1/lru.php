@@ -1,4 +1,3 @@
-
 class Node {
     public $key;
     public $value;
